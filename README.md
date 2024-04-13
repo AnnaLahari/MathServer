@@ -10,7 +10,6 @@ Surface Area = 2Πrh + 2Πr<sup>2</sup>
 <br>h --> Height of Right Cylinder
 
 ## DESIGN STEPS:
-
 ### Step 1:
 Clone the repository from GitHub.
 
